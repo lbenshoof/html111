@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+container{
+width:1440px;
+height:1224px;
+background-color:aqua
+	
+ }
+
+	header{
+	height:126px;
+	color:"pink";
+	width:100%
+}
+nav{
+width:100%
+}
+
+article {
+			Text-align: center;
+			width: 100%;
+			
+		}	
+aside{
+float:left;
+margin-top:10px;
+	margin-right: 10px
+
+}
