@@ -25,6 +25,7 @@ article {
 aside{
 float:left;
 margin-top:10px;
-	margin-right: 10px
+	margin-right: 10px; width: 20%; height: 20%
+		
 
 }
